@@ -1,0 +1,20 @@
+When your HTML loads, there should be:
+
+A heading tag for the game's title
+
+Tags showing the players wins, ties, and losses
+
+Three buttons for the user to click on (rock, paper, scissors respectively)
+After the user clicks on one of the buttons, the following should happen:
+
+Whatever button the user clicks on should be the users' choice (ex if the user clicked on rock, they picked rock)
+
+The computer should randomly pick rock, paper, or scissors.
+
+Use conditional statements to compare the user’s choice to the computer.
+
+If the user wins, increment a global wins variable, and show it on the screen.
+
+If the computer wins, increment a global losses variable, and show it on the screen.
+
+If it’s a tie, increment a global ties variable, and show it on the scree
